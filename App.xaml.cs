@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace TaskManager_Kazakov
+namespace TaskManager_Osennikov
 {
     /// <summary>
     /// Логика взаимодействия для App.xaml

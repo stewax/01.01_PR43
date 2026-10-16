@@ -2,9 +2,9 @@
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Text.RegularExpressions;
 using System.Windows;
-using TaskManager_Kazakov.Classes;
+using TaskManager_Osennikov.Classes;
 
-namespace TaskManager_Kazakov.Models
+namespace TaskManager_Osennikov.Models
 {
     public class Tasks : Notification
     {

@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace TaskManager_Kazakov.View.Items
+namespace TaskManager_Osennikov.View.Items
 {
     public partial class Item : UserControl
     {

@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using TaskManager_Kazakov.Classes;
-using TaskManager_Kazakov.View; // Добавьте это пространство имен
+using TaskManager_Osennikov.Classes;
+using TaskManager_Osennikov.View;
 
-namespace TaskManager_Kazakov.ViewModels
+namespace TaskManager_Osennikov.ViewModels
 {
     public class VM_Pages : Notification
     {

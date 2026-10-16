@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.ObjectModel;
 using System.Linq;
-using TaskManager_Kazakov.Classes;
-using TaskManager_Kazakov.Context;
-using TaskManager_Kazakov.Models;
+using TaskManager_Osennikov.Classes;
+using TaskManager_Osennikov.Context;
+using TaskManager_Osennikov.Models;
 
-namespace TaskManager_Kazakov.ViewModels
+namespace TaskManager_Osennikov.ViewModels
 {
     public class VM_Tasks : Notification
     {

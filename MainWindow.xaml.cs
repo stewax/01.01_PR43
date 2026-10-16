@@ -12,9 +12,9 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using TaskManager_Kazakov.ViewModels;
+using TaskManager_Osennikov.ViewModels;
 
-namespace TaskManager_Kazakov
+namespace TaskManager_Osennikov
 {
     /// <summary>
     /// Логика взаимодействия для MainWindow.xaml

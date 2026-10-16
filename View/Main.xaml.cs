@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace TaskManager_Kazakov.View
+namespace TaskManager_Osennikov.View
 {
     /// <summary>
     /// Логика взаимодействия для Main.xaml

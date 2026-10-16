@@ -1,7 +1,7 @@
 ﻿using System.Data.Entity;
-using TaskManager_Kazakov.Models;
+using TaskManager_Osennikov.Models;
 
-namespace TaskManager_Kazakov.Context
+namespace TaskManager_Osennikov.Context
 {
     public class TasksContext : DbContext
     {

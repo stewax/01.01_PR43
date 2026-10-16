@@ -6,7 +6,7 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TaskManager_Kazakov.Classes
+namespace TaskManager_Osennikov.Classes
 {
     public class Notification : INotifyPropertyChanged
     {
